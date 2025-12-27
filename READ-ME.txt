@@ -1,9 +1,9 @@
-  =>  Template Name    : Dev Bhoomi Nursery - Gardening Website Template
+  =>   Name    : Dev Bhoomi Nursery - Gardening Website 
 
-  =>  Template Link    : https://htmlcodex.com/gardening-website-template
+  =>   Link    : https://htmlcodex.com/gardening-website-
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>   License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>   Author  : HTML Codex
 
   =>  Author Website   : https://htmlcodex.com
